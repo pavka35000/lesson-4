@@ -1,0 +1,27 @@
+*{padding: 0%;
+margin: 0%;
+box-sizing: border-box;
+}
+body{font-size: 20px;
+    background-color:#822659;
+    
+}
+h1{font-size: 60px;
+text-align: center;}
+ p{margin: 25px 0;}
+  a{text-decoration: none;
+  color:#822659;
+  display: block; 
+  margin: 20px 15px;
+  text-align: center;}
+div{
+    width: 60%;
+    background-color:#e36bae;
+    margin: auto;
+    padding: 20px;
+}
+img{width:  100%;
+    height: auto;
+}
+ul{padding: 20px;
+}
